@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**Damianttje/Damianttje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Damianttje on Github 🤟 </h2>
+<p align="center">
+  <a2> Languages: </a2>
+</p>
+<p align="center">
+  <a title="C#">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_32x32.png">
+  </a>
+  <a title="C++">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp_32x32.png">
+  </a>
+    <a title="Python">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_32x32.png">
+  </a>
+    <a title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_32x32.png">
+  </a>
+    <a title="PHP">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php_32x32.png">
+  </a>
+    <a title="HTML">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_32x32.png">
+  </a>
+    <a title="CSS">
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_32x32.png">
+  </a>
+  <h1 align="center"></h1>
+</p>
