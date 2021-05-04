@@ -30,6 +30,6 @@
 <p align="center">
   <h4 align="center"> Damianttje on Github 🤟 </h4>
   <a title="HyperWare">
-    <img src="https://z.zz.ht/trLY8.png" height="10%">
+    <img align="center" href="https://blackholestudios.xyz/" src="https://z.zz.ht/trLY8.png" height="10%">
   </a>
   </p>
