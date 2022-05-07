@@ -27,10 +27,3 @@
   <h1 align="center"></h1>
 </p>
 <h3 align="center"> Projects: </h3>
-<p align="center">
-  <h4 align="center"> HyperWare </h4>
-  <h5 align="center"> https://discord.gg/9JDbjSc5jd </h5>
-  <a title="HyperWare">
-    <img align="center" href="https://blackholestudios.xyz/" src="https://z.zz.ht/trLY8.png" height="10%">
-  </a>
-  </p>
