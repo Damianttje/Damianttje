@@ -27,7 +27,7 @@ Feel free to connect with me!
 ## Projects
 Here are some of the projects Im working on:
 - [Nexusauth](https://github.com/NexusAuth): User authentication service.
-- [Wavestorm](https://github.com/wavestorm): Game and Game Engine development.
+- [Wavestorm](https://github.com/wavestormgames): Game and Game Engine development.
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
