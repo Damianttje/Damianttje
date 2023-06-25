@@ -25,6 +25,6 @@
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css_32x32.png">
   </a>
   <h1 align="center"></h1>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/501513498237337620)](https://discord.com/users/501513498237337620)
 </p>
 <h3 align="center"> Projects: </h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/501513498237337620)](https://discord.com/users/501513498237337620)
