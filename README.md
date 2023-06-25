@@ -13,7 +13,7 @@ I'm a developer from the Netherlands who enjoys coding for fun. I have experienc
   <img src="https://img.icons8.com/color/lua-language" alt="Lua" title="Lua" />
 
 ## Discord Profile Card
-[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=282A3682&idleMessage=acquite+is+not+doing+anything+right+now+:c)](https://discord.com/users/501513498237337620)
+[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=323232&idleMessage=Hey+Hey+Im+not+doing+anything+at+the+moment)](https://discord.com/users/501513498237337620)
 
 Click on the image above to visit my Discord profile!
 
