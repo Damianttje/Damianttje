@@ -32,4 +32,8 @@ Here are some of the projects Im working on:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+## Spotify
+![Spotify Last Played](https://spotify-recently-played-readme.vercel.app/api?user=21h5lfb3fjeivnfjmyrbymmui)
+
 </div>
