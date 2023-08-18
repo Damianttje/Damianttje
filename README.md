@@ -18,7 +18,8 @@ I'm a developer from the Netherlands who enjoys coding for fun. I have experienc
 Click on the image above to visit my Discord profile!
 
 ## Contact Me
-- Website: [Damians.space](https://damians.space/)
+- Website: [damians.space](https://damians.space/)
+(alternate) [damian.wtf](https://damian.wtf/)
 - Discord: damian.vd
 - Email: contact@damians.space
 
