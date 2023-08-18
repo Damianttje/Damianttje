@@ -19,6 +19,7 @@ Click on the image above to visit my Discord profile!
 
 ## Contact Me
 - Website: [damians.space](https://damians.space/)
+
 (alternate) [damian.wtf](https://damian.wtf/)
 - Discord: damian.vd
 - Email: contact@damians.space
