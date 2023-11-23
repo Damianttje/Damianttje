@@ -28,7 +28,7 @@ Feel free to connect with me!
 
 ## Projects
 Here are some of the projects Im working on:
-- [Wavestorm](https://github.com/wavestormgames): Game and Game Engine development.
+- [Wavestorm](https://github.com/WavestormSoftware): Game and Game Engine development.
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damianttje&show_icons=true&theme=radical)
