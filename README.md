@@ -13,20 +13,20 @@ I'm a developer from the Netherlands who loves coding for fun. I'm passionate ab
   <img src="https://img.icons8.com/color/lua-language" alt="Lua" title="Lua" />
 
 ## Discord Profile Card
-[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=323232&idleMessage=Hey+Hey+Im+not+doing+anything+at+the+moment)](https://discord.com/users/501513498237337620)
+[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=323232&idleMessage=Hey+Hey+I'm+not+doing+anything+at+the+moment)](https://discord.com/users/501513498237337620)
 
 🚀 Click on the image above to visit my Discord profile!
 
 ## Contact Me
-- 🌐 Website: [damians.space](https://damians.space/) (alternate: [damian.wtf](https://damian.wtf/))
+- 🌐 Website: [damians.space](https://damians.space/)
 - 💬 Discord: damian.vd
-- ✉️ Email: contact@damians.space
+- ✉️ Email: [contact@damians.space](mailto:contact@damians.space)
 
 Feel free to connect with me!
 
 ## Projects
 Here are some exciting projects I'm working on:
-- Wavestorm Games [(Github)](https://github.com/WavestormSoftware) [(Website)](https://wavestormgames.net/): Game and Game Engine development.
+- **Wavestorm Games**: [GitHub](https://github.com/WavestormSoftware) | [Website](https://wavestormgames.net/): Game and Game Engine development.
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damianttje&show_icons=true&theme=radical)
