@@ -1,41 +1,66 @@
 <div align="center">
+  
+# Damianttje
 
-# Hi there, I'm Damianttje! 👋
+[![Website](https://img.shields.io/badge/Website-damians.space-blue?style=flat-square&logo=google-chrome)](https://damians.space/)
+[![Discord](https://img.shields.io/badge/Discord-damian.vd-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/501513498237337620)
+[![Email](https://img.shields.io/badge/Email-contact@damians.space-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@damians.space)
 
-## About Me
-I'm a developer from the Netherlands who loves coding for fun. I'm passionate about various programming languages, including:
+</div>
 
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
-  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP" title="PHP" />
-  <img src="https://img.icons8.com/color/lua-language" alt="Lua" title="Lua" />
+## About Me 💫
 
-## Discord Profile Card
-[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=323232&idleMessage=Hey+Hey+I'm+not+doing+anything+at+the+moment)](https://discord.com/users/501513498237337620)
+Hey there! I'm a passionate developer from the Netherlands who loves turning ideas into code. When I'm not coding, you'll find me exploring new technologies and working on exciting projects.
 
-🚀 Click on the image above to visit my Discord profile!
+### Tech Stack 🛠️
 
-## Contact Me
-- 🌐 Website: [damians.space](https://damians.space/)
-- 💬 Discord: damian.vd
-- ✉️ Email: [contact@damians.space](mailto:contact@damians.space)
+<div align="center">
 
-Feel free to connect with me!
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
 
-## Projects
-Here are some exciting projects I'm working on:
-- **Wavestorm Games**: [GitHub](https://github.com/WavestormSoftware) | [Website](https://wavestormgames.net/): Game and Game Engine development.
+</div>
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damianttje&show_icons=true&theme=radical)
+## Current Focus 🎮
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damianttje&layout=compact&theme=radical)](https://github.com/Damianttje)
+I'm currently working on [Wavestorm Games](https://wavestormgames.net/), where we're pushing the boundaries of game development and engine creation. Check out our work:
 
-## Spotify
-🎶 **Spotify Last Played:**
+[![Wavestorm Games](https://img.shields.io/badge/Organization-Wavestorm_Games-2ea44f?style=for-the-badge)](https://github.com/WavestormSoftware)
 
-![Spotify Last Played](https://spotify-recently-played-readme.vercel.app/api?user=21h5lfb3fjeivnfjmyrbymmui)
+## Discord Status 🎮
+
+<div align="center">
+
+[![Discord Profile Card](https://lanyard.cnrad.dev/api/501513498237337620?borderRadius=10px&animated=true&bg=323232&idleMessage=Probably%20coding%20something%20cool...)](https://discord.com/users/501513498237337620)
+
+</div>
+
+## GitHub Activity 📊
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damianttje&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damianttje&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Damianttje)
+
+</div>
+
+## Currently Vibing To 🎵
+
+<div align="center">
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=21h5lfb3fjeivnfjmyrbymmui)
+
+</div>
+
+---
+
+<div align="center">
+
+*Feel free to reach out for collaborations or just to say hi!* 👋
 
 </div>
